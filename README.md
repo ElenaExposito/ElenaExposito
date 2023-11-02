@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+```javascript
+const ElenaExposito = {
+  pronouns: "she" | "her",
+  technologies: 'web',
+  passions: ['performance web', 'web development'],
+  code: [Javascript, Typescript, HTML, CSS, PHP, TypeScript, JSON, MarkDown],
+  tools: [Vue, Firebase, Supabase, MySQL, Netlify, Pinia, Astro],
+}
+```
+
+You can find me 🌍:
+- [Linkedin](https://www.linkedin.com/in/elena-exp%C3%B3sito-lara/)
+
 <!--
 **ElenaExposito/ElenaExposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
