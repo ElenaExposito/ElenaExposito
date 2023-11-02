@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Elena 👋
+
+## About me in code
 
 ```javascript
 const ElenaExposito = {
@@ -10,9 +12,14 @@ const ElenaExposito = {
 }
 ```
 
-You can find me 🌍:
+## You can find me 🌍:
 - [Linkedin](https://www.linkedin.com/in/elena-exp%C3%B3sito-lara/)
 
+<a href="https://www.linkedin.com/in/elena-exp%C3%B3sito-lara/">
+  <img align "left" alt="ElenaExposito | Linkedin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+![ElenaExposito's github stats](https://github-readme-stats.vercel.app/api?username=ElenaExposito)
 <!--
 **ElenaExposito/ElenaExposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
