@@ -7,8 +7,8 @@ const ElenaExposito = {
   pronouns: "she" | "her",
   technologies: 'web',
   passions: ['performance web', 'web development'],
-  code: [Javascript, Typescript, HTML, CSS, PHP, TypeScript, JSON, MarkDown],
-  tools: [Vue, Firebase, Supabase, MySQL, Netlify, Pinia, Astro],
+  code: [Javascript, JSX, Typescript, HTML, CSS, PHP, JSON, MarkDown],
+  tools: [React, Vue, Firebase, Supabase, MySQL, Netlify, Pinia, Astro],
 }
 ```
 
